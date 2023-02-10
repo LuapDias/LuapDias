@@ -23,6 +23,6 @@
   
 </div>
 
-![Snake animation](https://github.com/LuapDias/LuapDias/blob/output/github-contribution-grid-snake.svg)
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=836FFF&height=70&section=footer"/>
