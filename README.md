@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=836FFF&size=28&center=true&vCenter=true&width=1000&lines=Oii!+Meu+nome+é+Luana.;Tenho+19+anos.;Faço+Análise+e+Desenvolvimento+de+Sistemas.;Sou+iniciante+no+mundo+da+programação.;Seja+bem-vindo+ao+meu+perfil+do+Github!+:%29)](https://git.io/typing-svg)
 
 <p>
-  Linguagens que estou estudando.
+  Linguagens que estou aprendendo.
  </p>
 
 <div style="display: inline_block"><br>
