@@ -7,10 +7,10 @@
  </p>
 
 <div style="display: inline_block"><br>
-<p><img align="center" alt="Luana-C" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> C </p>
+
   <p><img align="center" alt="Luana-HTML" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> HTML5</p>
   <p><img align="center" alt="Luana-CSS" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> CSS</p>
-  <p><img align="center" alt="Luana-CSS" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> C#</p>
+  <p><img align="center" alt="Luana-C#" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> C#</p>
   <img align="center" alt="gif" height="100" width="200" src=https://c10.patreonusercontent.com/4/patreon-media/p/post/48998443/84dabaf4a8654d2bb726b0e37ebbdec3/eyJ3Ijo2MjB9/1.gif?token-time=1677283200&token-hash=hOHe1qdujI3qkFG7QnlRfj5aFxu09p9Y7IeT0DK9Mmg%3D>
 </div>
 
