@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=836FFF&height=70&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=836FFF&size=28&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Luana!;Tenho+20+anos.;Sou+uma+Desenvolvedora+Full+Stack.;Aqui+estará+todos+os+meus+projetos!;Seja+bem-vindo+ao+meu+perfil+do+Github!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=836FFF&size=28&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Luana!;Tenho+21+anos.;Sou+uma+Desenvolvedora+Full+Stack.;Aqui+estará+todos+os+meus+futuros+projetos!;Seja+bem-vindo+ao+meu+perfil+do+Github!+:%29)](https://git.io/typing-svg)
 
 <h2>
   Linguagens
